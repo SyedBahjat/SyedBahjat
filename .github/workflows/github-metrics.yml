@@ -1,0 +1,17 @@
+name: GitHub metrics
+on:
+  workflow_dispatch:   # only manual runs
+  # schedule: [{cron: "0 0 * * *"}]   # <-- commented out
+jobs:
+  github-metrics:
+    if: ${{ false }}   # disable until ready
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Karachi
