@@ -1,7 +1,7 @@
 <!-- ==================  Syed Muhammad Bahjat  ================== -->
 <h1 align="center">
-  <!-- typing animation – no external repo data needed -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D1FF&center=true&vCenter=true&repeat=false&width=435&lines=Hi%2C+I'm+Syed+Muhammad+Bahjat;AI%2FML+Engineer%2C+Backend+Lead;LangChain%20%7C%20Vertex%20AI%20%7C%20K8s;Building%20Production-Ready%20RAG" alt="Typing animation"/>
+  <!-- slower + infinite + correctly-spelled lines -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=200&color=00D1FF&center=true&vCenter=true&repeat=true&width=450&lines=Hi%2C+I'm+Syed+Muhammad+Bahjat;AI%2FML+Engineer+%7C+Backend+Lead;LangChain%20%7C%20Vertex%20AI%20%7C%20K8s;Building+Production-Ready+RAG" alt="Typing animation"/>
 </h1>
 
 <p align="center">
